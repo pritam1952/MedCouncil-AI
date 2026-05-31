@@ -34,7 +34,13 @@ ConflictChecker   ← catches disagreements
 ```
 
 ---
+## 🧠 System Architecture
 
+<p align="center">
+  <img src="assets/medcouncil_flow.png" width="900"/>
+</p>
+
+---
 ## Quickstart
 
 ### 1. Install
