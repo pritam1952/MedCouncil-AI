@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "medcouncil"
+version = "0.1.0"
+description = "A multi-specialist AI diagnostic panel for parallel isolated medical reasoning"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "groq",
+    "python-dotenv",
+]
+
+[project.urls]
+Homepage = "https://github.com/pritam1952/medcouncil"
