@@ -37,7 +37,7 @@ ConflictChecker   ← catches disagreements
 ## 🧠 System Architecture
 
 <p align="center">
-  <img src="assets/medcouncil_flow.png" width="900"/>
+  <img src="assets/architecture.png" width="900"/>
 </p>
 
 ---
